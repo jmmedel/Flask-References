@@ -37,3 +37,6 @@ hello.js contains sayHello() function.
 function sayHello() {
    alert("Hello World")
 }
+function sayHello() {
+   alert("Hello World")
+}
